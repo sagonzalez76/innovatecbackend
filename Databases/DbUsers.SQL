@@ -1,0 +1,10 @@
+-- CREATE DATABASE IF NOT EXISTS vetasdb;
+-- USE ventasdb;
+-- create table users(
+--     id INT(10) NOT NULL AUTO_INCREMENT,
+--     name VARCHAR (20) DEFAULT NULL,
+--     city VARCHAR (10) DEFAULT NULL,
+--     rol VARCHAR (10) DEFAULT NULL,
+--     PRIMARY KEY (id)
+-- );
+-- DESCRIBE users;
